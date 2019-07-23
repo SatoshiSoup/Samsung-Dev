@@ -1719,10 +1719,10 @@ public class Storj {
             try {
                 runnable.run(project);
             } finally {
-              //  project.close();
+               project.close();
             }
         } finally {
-            //uplink.close();
+            uplink.close();
         }
     }
 
