@@ -1,0 +1,1 @@
+export const SET_ACTIVE_SCREEN = 'SET_ACTIVE_SCREEN';

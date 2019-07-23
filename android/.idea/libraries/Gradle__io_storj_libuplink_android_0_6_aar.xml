@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.storj:libuplink-android:0.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libuplink-android-0.6.aar/4e9d52f786e4ee145f065c3b9db3cfc1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libuplink-android-0.6.aar/4e9d52f786e4ee145f065c3b9db3cfc1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.storj/libuplink-android/0.6/91b3b71469bc72e84bd73215884283101500ff8c/libuplink-android-0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
